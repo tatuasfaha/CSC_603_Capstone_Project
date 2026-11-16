@@ -1,0 +1,223 @@
+[
+  {
+    "id": "S01",
+    "title": "Common Cold",
+    "url": "https://medlineplus.gov/commoncold.html",
+    "reviewed": "2026-11-15",
+    "file": "S01.md",
+    "keywords": [
+      "cold",
+      "runny nose",
+      "sneeze",
+      "sneezing",
+      "sore throat"
+    ],
+    "summary": "Colds are viral infections affecting the nose and throat. Symptoms can include a runny or blocked nose, sneezing, cough, and sore throat. Different infections can cause similar symptoms, so a description alone does not confirm a cold. Rest and fluids can help with comfort; consult a professional about concerning symptoms."
+  },
+  {
+    "id": "S02",
+    "title": "Flu",
+    "url": "https://medlineplus.gov/flu.html",
+    "reviewed": "2026-11-15",
+    "file": "S02.md",
+    "keywords": [
+      "flu",
+      "influenza",
+      "aches",
+      "fatigue",
+      "fever"
+    ],
+    "summary": "Influenza is a respiratory infection caused by influenza viruses. It can be mild or serious. Fever, body aches, fatigue, cough, and sore throat can occur, but symptoms alone cannot reliably distinguish flu from other respiratory illnesses. A healthcare professional can advise about testing and treatment."
+  },
+  {
+    "id": "S03",
+    "title": "Allergy",
+    "url": "https://medlineplus.gov/allergy.html",
+    "reviewed": "2026-11-15",
+    "file": "S03.md",
+    "keywords": [
+      "allergy",
+      "allergies",
+      "pollen",
+      "dust",
+      "pets"
+    ],
+    "summary": "Allergies involve an immune response to substances such as pollen, dust mites, mold, or pet dander. Symptoms vary. Identifying and limiting exposure to a known trigger can help. A severe allergic reaction requires emergency care; routine allergy advice should never replace urgent help."
+  },
+  {
+    "id": "S04",
+    "title": "Allergic rhinitis",
+    "url": "https://medlineplus.gov/ency/article/000813.htm",
+    "reviewed": "2026-11-15",
+    "file": "S04.md",
+    "keywords": [
+      "rhinitis",
+      "hay fever",
+      "itchy",
+      "sneezing",
+      "pollen"
+    ],
+    "summary": "Allergic rhinitis can cause sneezing, an itchy nose or eyes, watery eyes, and nasal congestion after allergen exposure. Pollen is a common seasonal trigger. A clinician can help determine whether symptoms are allergic and discuss appropriate treatment. Symptoms are not a definitive diagnosis."
+  },
+  {
+    "id": "S05",
+    "title": "Allergic rhinitis self-care",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000547.htm",
+    "reviewed": "2026-11-15",
+    "file": "S05.md",
+    "keywords": [
+      "allergy",
+      "allergies",
+      "self-care",
+      "trigger",
+      "nasal spray"
+    ],
+    "summary": "Reducing exposure to known allergens is part of allergy self-care. Antihistamines and some nasal sprays may relieve symptoms, but suitability depends on the person and product. Some medicines cause drowsiness. Ask a pharmacist or clinician about choices and follow the product label rather than using chatbot dosing."
+  },
+  {
+    "id": "S06",
+    "title": "Antihistamines for allergies",
+    "url": "https://medlineplus.gov/ency/patientinstructions/000549.htm",
+    "reviewed": "2026-11-15",
+    "file": "S06.md",
+    "keywords": [
+      "antihistamine",
+      "drowsy",
+      "sleepy",
+      "allergy medicine"
+    ],
+    "summary": "Antihistamines can relieve allergy symptoms such as itching, sneezing, and a runny nose. Some cause sleepiness and may affect driving or machinery use. Medicine choice, interactions, pregnancy, and dosing should be discussed with a pharmacist or clinician. Read the label carefully."
+  },
+  {
+    "id": "S07",
+    "title": "Cold and Cough Medicines",
+    "url": "https://medlineplus.gov/coldandcoughmedicines.html",
+    "reviewed": "2026-11-15",
+    "file": "S07.md",
+    "keywords": [
+      "medicine",
+      "medication",
+      "cough",
+      "ingredients",
+      "otc"
+    ],
+    "summary": "Over-the-counter cold and cough medicines may reduce symptoms but do not cure a cold. Combination products may share active ingredients, so combining products can accidentally increase the amount taken. Read labels and ask a pharmacist before combining medicines. Rest, fluids, and saline nasal products are nonprescription comfort options."
+  },
+  {
+    "id": "S08",
+    "title": "Signs and Symptoms of Flu",
+    "url": "https://www.cdc.gov/flu/signs-symptoms/index.html",
+    "reviewed": "2026-11-15",
+    "file": "S08.md",
+    "keywords": [
+      "warning",
+      "emergency",
+      "breathing",
+      "chest",
+      "confusion"
+    ],
+    "summary": "Respiratory illness warning signs in adults include breathing difficulty, persistent chest or abdominal discomfort, confusion, seizures, lack of urination, or marked weakness. Symptoms that improve and then worsen can also need immediate care. Seek medical help promptly for severe or concerning symptoms. A short checklist is not exhaustive."
+  },
+  {
+    "id": "S09",
+    "title": "Flu What To Do If You Get Sick",
+    "url": "https://www.cdc.gov/flu/takingcare/",
+    "reviewed": "2026-11-15",
+    "file": "S09.md",
+    "keywords": [
+      "flu",
+      "sick",
+      "home",
+      "rest"
+    ],
+    "summary": "Many mild flu illnesses can be managed at home, but severe illness and higher-risk situations need professional advice. Avoid close contact with others while sick. Contact a clinician early if at higher risk or worried about symptoms. Emergency warning signs warrant emergency medical attention."
+  },
+  {
+    "id": "S10",
+    "title": "People at Increased Risk for Flu Complications",
+    "url": "https://www.cdc.gov/flu/highrisk/index.htm",
+    "reviewed": "2026-11-15",
+    "file": "S10.md",
+    "keywords": [
+      "pregnant",
+      "older",
+      "asthma",
+      "diabetes",
+      "risk"
+    ],
+    "summary": "Some groups have greater risk of serious flu complications, including adults 65 and older, pregnant people, and people with certain chronic conditions or weakened immunity. They should contact a healthcare professional promptly for suspected flu rather than relying on a chatbot for treatment decisions."
+  },
+  {
+    "id": "S11",
+    "title": "Treatment of Flu",
+    "url": "https://www.cdc.gov/flu/treatment/index.html",
+    "reviewed": "2026-11-15",
+    "file": "S11.md",
+    "keywords": [
+      "flu",
+      "antiviral",
+      "treatment",
+      "prescription"
+    ],
+    "summary": "Prescription antiviral medicines may be used for flu. They tend to offer the most benefit when started early, and a clinician should decide whether they are appropriate. People with severe illness or increased risk should seek prompt advice. Antibiotics do not treat influenza viruses."
+  },
+  {
+    "id": "S12",
+    "title": "Manage Common Cold",
+    "url": "https://www.cdc.gov/common-cold/treatment/index.html",
+    "reviewed": "2026-11-15",
+    "file": "S12.md",
+    "keywords": [
+      "cold",
+      "rest",
+      "saline",
+      "hydration",
+      "humidifier"
+    ],
+    "summary": "Rest, fluids, saline nasal products, and a clean cool-mist humidifier may ease cold symptoms. They do not eliminate the virus. Seek medical advice for breathing difficulty, dehydration, prolonged or worsening symptoms, or other concerning changes. Cold-like symptoms may have other causes, including flu or COVID-19."
+  },
+  {
+    "id": "S13",
+    "title": "Preventing Spread of Respiratory Viruses When You Are Sick",
+    "url": "https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html",
+    "reviewed": "2026-11-15",
+    "file": "S13.md",
+    "keywords": [
+      "spread",
+      "work",
+      "stay home",
+      "mask",
+      "prevent"
+    ],
+    "summary": "For respiratory illness, CDC advises staying home and away from others until symptoms are improving overall and fever has been absent for at least 24 hours without fever-reducing medicine. Added precautions for the next five days can reduce spread. Healthcare settings have separate guidance; consult current official guidance for details."
+  },
+  {
+    "id": "S14",
+    "title": "Antibiotic Do's and Don'ts",
+    "url": "https://www.cdc.gov/antibiotic-use/about/index.html",
+    "reviewed": "2026-11-15",
+    "file": "S14.md",
+    "keywords": [
+      "antibiotic",
+      "antibiotics",
+      "bacteria",
+      "virus"
+    ],
+    "summary": "Antibiotics treat certain bacterial infections and do not treat viruses that cause colds or flu. Taking them unnecessarily can cause harm. Do not share antibiotics or use leftover prescriptions. A healthcare professional should determine whether an antibiotic is needed."
+  },
+  {
+    "id": "S15",
+    "title": "Anaphylaxis",
+    "url": "https://medlineplus.gov/ency/article/000844.htm",
+    "reviewed": "2026-11-15",
+    "file": "S15.md",
+    "keywords": [
+      "allergic reaction",
+      "throat",
+      "tongue",
+      "swelling",
+      "anaphylaxis"
+    ],
+    "summary": "Anaphylaxis is a potentially life-threatening allergic reaction. Airway swelling, breathing problems, or collapse after an exposure can require immediate emergency help. Call local emergency services for a suspected severe reaction. Do not wait for a chatbot to assess whether it is serious."
+  }
+]
