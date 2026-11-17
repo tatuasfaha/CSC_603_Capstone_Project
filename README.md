@@ -24,7 +24,7 @@ medical diagnosis. The web prototype will clearly state that this is an educatio
 ``` bash
 npm ci
 cp .env.example .env
-npm run buil
+npm run build
 npm start 
 ```
 Open http://127.0.0.1:3001 
