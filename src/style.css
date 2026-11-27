@@ -112,3 +112,50 @@ body {
     padding: 12px 16px;
   }
 }
+
+/* Suggested symptom buttons */
+.suggestions {
+  padding: 16px 24px;
+}
+
+.suggestions p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 12px;
+}
+
+.suggestion-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.suggestion-buttons button {
+  background-color: #e2f2eb;
+  color: #143f39;
+  border: 1px solid #b5d9cb;
+  border-radius: 20px;
+  padding: 10px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.suggestion-buttons button:hover {
+  background-color: #cce6d9;
+}
+
+.suggestion-buttons button:focus-visible {
+  outline: 3px solid #247e70;
+  outline-offset: 2px;
+}
+
+@media (max-width: 600px) {
+  .suggestions {
+    padding: 12px 16px;
+  }
+
+  .suggestion-buttons button {
+    flex: 1 1 auto;
+  }
+}
