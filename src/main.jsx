@@ -11,6 +11,17 @@ function App() {
     },
   ]);
 
+  function handleNewChat() {
+    setMessages([
+      {
+        role: "assistant",
+        text: "Hello! I'm AI Advice Nurse. How can I help you today?",
+      },
+    ]);
+  
+    setInput("");
+  }
+
   const [input, setInput] = useState("");
 
   const symptomSuggestions = [
@@ -55,6 +66,17 @@ function App() {
           Educational prototype only. Not a medical diagnosis.
           For emergencies, call 911 in the United States.
         </div>
+
+        <div className="chat-toolbar">
+          <h2>Conversation</h2>
+          <button
+          type="button"
+          className="new-chat-button"
+          onClick={handleNewChat}
+          >
+            + New Chat
+            </button>
+            </div>
 
         <div className="messages">
           {messages.map((message, index) => (
