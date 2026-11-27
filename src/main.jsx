@@ -13,6 +13,17 @@ function App() {
 
   const [input, setInput] = useState("");
 
+  const symptomSuggestions = [
+    { label: "Cold & Flu", prompt: "I have cold or flu symptoms." },
+    { label: "Allergies", prompt: "I'm experiencing allergy symptoms." },
+    { label: "Minor Cuts", prompt: "I have a minor cut or scrape." },
+    { label: "Sore Throat", prompt: "I have a sore throat." },
+  ];
+  
+  function handleSuggestion(prompt) {
+    setInput(prompt);
+  }
+
   function handleSend(event) {
     event.preventDefault();
 
@@ -55,6 +66,24 @@ function App() {
             </div>
           ))}
         </div>
+
+        {messages.length === 1 && (
+          <div className="suggestions">
+          <p>Not sure where to start? Try a common topic:</p>
+
+    <div className="suggestion-buttons">
+      {symptomSuggestions.map((suggestion) => (
+        <button
+          key={suggestion.label}
+          type="button"
+          onClick={() => handleSuggestion(suggestion.prompt)}
+        >
+          {suggestion.label}
+        </button>
+      ))}
+    </div>
+  </div>
+)}
 
         <form className="input-area" onSubmit={handleSend}>
           <input
