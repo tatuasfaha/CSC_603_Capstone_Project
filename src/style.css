@@ -113,7 +113,7 @@ body {
   }
 }
 
-/* Suggested symptom buttons */
+/* suggested symptom buttons */
 .suggestions {
   padding: 16px 24px;
 }
@@ -157,5 +157,55 @@ body {
 
   .suggestion-buttons button {
     flex: 1 1 auto;
+  }
+}
+
+/* chat toolbar */
+.chat-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  gap: 12px;
+}
+
+.chat-toolbar h2 {
+  font-size: 16px;
+  font-weight: 600;
+  color: #143f39;
+  margin: 0;
+}
+
+/* new chat button */
+.new-chat-button {
+  background-color: #143f39;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.new-chat-button:hover {
+  background-color: #24695d;
+}
+
+.new-chat-button:focus-visible {
+  outline: 3px solid #247e70;
+  outline-offset: 3px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  .chat-toolbar {
+    padding: 12px 16px;
+  }
+
+  .new-chat-button {
+    padding: 8px 12px;
+    font-size: 13px;
   }
 }
